@@ -14,7 +14,7 @@ library(stringr)
 ###############################################################
 
 network <- read.csv(
-  "C:/Users/tahi3002/OneDrive - NIQ/Desktop/New folder/Bioinformatics/for manuscript/TF activity/network_tf.csv",
+  "TF activity/network_tf.csv",
   stringsAsFactors = FALSE
 )
 
