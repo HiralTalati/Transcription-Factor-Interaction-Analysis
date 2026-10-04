@@ -49,7 +49,7 @@ Rscript tf_degree_ranking.R
 
 📊 Exported Workspace Assets
 
-Upon successful execution, the script generates a series of formatted tables and publication-ready visualizations in the active root directory:
+Upon successful execution, the script generates a series of formatted tables and visualizations in the active root directory:
 
 TF_Ranking_Table.csv - Flat structured matrix	Comprehensive list of all identified TFs sorted by descending degree connectivity.
 
