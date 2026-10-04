@@ -1,6 +1,6 @@
 #script for TF degree after using NetworkAnalyst3.2, ENCODE, TF-Gene interaction:
 
-  ###############################################################
+###############################################################
 ## TF RANKING FROM NETWORKANALYST (ENCODE)
 ###############################################################
 
